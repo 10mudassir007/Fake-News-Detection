@@ -1,1 +1,1 @@
-# Text-Classification-in-Tensorflow
+# 20-Newsgroup-Classification
